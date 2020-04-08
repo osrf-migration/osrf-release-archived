@@ -1,0 +1,128 @@
+{
+    "osrf/drcsim-release": {
+        "project_file": "data/repositories/osrf/drcsim-release.json",
+        "project_path": "data/repositories/osrf/drcsim-release/",
+        "is_fork": false,
+        "github_repo": "https://github.com/ignition-release/drcsim-release"
+    },
+    "osrf/drcsim7-release": {
+        "project_file": "data/repositories/osrf/drcsim7-release.json",
+        "project_path": "data/repositories/osrf/drcsim7-release/",
+        "is_fork": false,
+        "github_repo": "https://github.com/ignition-release/drcsim7-release"
+    },
+    "osrf/gazebo-current-release": {
+        "project_file": "data/repositories/osrf/gazebo-current-release.json",
+        "project_path": "data/repositories/osrf/gazebo-current-release/",
+        "is_fork": false,
+        "github_repo": "https://github.com/ignition-release/gazebo-current-release"
+    },
+    "osrf/gazebo-release": {
+        "project_file": "data/repositories/osrf/gazebo-release.json",
+        "project_path": "data/repositories/osrf/gazebo-release/",
+        "is_fork": false,
+        "github_repo": "https://github.com/ignition-release/gazebo-release"
+    },
+    "osrf/gazebo2-release": {
+        "project_file": "data/repositories/osrf/gazebo2-release.json",
+        "project_path": "data/repositories/osrf/gazebo2-release/",
+        "is_fork": false,
+        "github_repo": "https://github.com/ignition-release/gazebo2-release"
+    },
+    "osrf/gazebo3-release": {
+        "project_file": "data/repositories/osrf/gazebo3-release.json",
+        "project_path": "data/repositories/osrf/gazebo3-release/",
+        "is_fork": false,
+        "github_repo": "https://github.com/ignition-release/gazebo3-release"
+    },
+    "osrf/gazebo4-release": {
+        "project_file": "data/repositories/osrf/gazebo4-release.json",
+        "project_path": "data/repositories/osrf/gazebo4-release/",
+        "is_fork": false,
+        "github_repo": "https://github.com/ignition-release/gazebo4-release"
+    },
+    "osrf/gazebo5-release": {
+        "project_file": "data/repositories/osrf/gazebo5-release.json",
+        "project_path": "data/repositories/osrf/gazebo5-release/",
+        "is_fork": false,
+        "github_repo": "https://github.com/ignition-release/gazebo5-release"
+    },
+    "osrf/gazebo6-release": {
+        "project_file": "data/repositories/osrf/gazebo6-release.json",
+        "project_path": "data/repositories/osrf/gazebo6-release/",
+        "is_fork": false,
+        "github_repo": "https://github.com/ignition-release/gazebo6-release"
+    },
+    "osrf/gazebo8-release": {
+        "project_file": "data/repositories/osrf/gazebo8-release.json",
+        "project_path": "data/repositories/osrf/gazebo8-release/",
+        "is_fork": false,
+        "github_repo": "https://github.com/ignition-release/gazebo8-release"
+    },
+    "osrf/handsim-release": {
+        "project_file": "data/repositories/osrf/handsim-release.json",
+        "project_path": "data/repositories/osrf/handsim-release/",
+        "is_fork": false,
+        "github_repo": "https://github.com/ignition-release/handsim-release"
+    },
+    "osrf/haptix-comm-release": {
+        "project_file": "data/repositories/osrf/haptix-comm-release.json",
+        "project_path": "data/repositories/osrf/haptix-comm-release/",
+        "is_fork": false,
+        "github_repo": "https://github.com/ignition-release/haptix-comm-release"
+    },
+    "osrf/haptix-luke-proprietary-release": {
+        "project_file": "data/repositories/osrf/haptix-luke-proprietary-release.json",
+        "project_path": "data/repositories/osrf/haptix-luke-proprietary-release/",
+        "is_fork": false,
+        "github_repo": "https://github.com/ignition-release/haptix-luke-proprietary-release"
+    },
+    "osrf/haptix-tools-release": {
+        "project_file": "data/repositories/osrf/haptix-tools-release.json",
+        "project_path": "data/repositories/osrf/haptix-tools-release/",
+        "is_fork": false,
+        "github_repo": "https://github.com/ignition-release/haptix-tools-release"
+    },
+    "osrf/mentor2-release": {
+        "project_file": "data/repositories/osrf/mentor2-release.json",
+        "project_path": "data/repositories/osrf/mentor2-release/",
+        "is_fork": false,
+        "github_repo": "https://github.com/ignition-release/mentor2-release"
+    },
+    "osrf/robocup3ds-release": {
+        "project_file": "data/repositories/osrf/robocup3ds-release.json",
+        "project_path": "data/repositories/osrf/robocup3ds-release/",
+        "is_fork": false,
+        "github_repo": "https://github.com/ignition-release/robocup3ds-release"
+    },
+    "osrf/sandia-hand-release": {
+        "project_file": "data/repositories/osrf/sandia-hand-release.json",
+        "project_path": "data/repositories/osrf/sandia-hand-release/",
+        "is_fork": false,
+        "github_repo": "https://github.com/ignition-release/sandia-hand-release"
+    },
+    "osrf/sdformat-release": {
+        "project_file": "data/repositories/osrf/sdformat-release.json",
+        "project_path": "data/repositories/osrf/sdformat-release/",
+        "is_fork": false,
+        "github_repo": "https://github.com/ignition-release/sdformat-release"
+    },
+    "osrf/sdformat2-release": {
+        "project_file": "data/repositories/osrf/sdformat2-release.json",
+        "project_path": "data/repositories/osrf/sdformat2-release/",
+        "is_fork": false,
+        "github_repo": "https://github.com/ignition-release/sdformat2-release"
+    },
+    "osrf/sdformat3-release": {
+        "project_file": "data/repositories/osrf/sdformat3-release.json",
+        "project_path": "data/repositories/osrf/sdformat3-release/",
+        "is_fork": false,
+        "github_repo": "https://github.com/ignition-release/sdformat3-release"
+    },
+    "osrf/sdformat5-release": {
+        "project_file": "data/repositories/osrf/sdformat5-release.json",
+        "project_path": "data/repositories/osrf/sdformat5-release/",
+        "is_fork": false,
+        "github_repo": "https://github.com/ignition-release/sdformat5-release"
+    }
+}
